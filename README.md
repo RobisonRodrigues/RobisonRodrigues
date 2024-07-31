@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Olá! Sou Robison Rodrigues, um Engenheiro Civil com um interesse crescente em na área de dados. Atualmente, estou apredendendo novas tecnologias.
+Sou Robison Rodrigues, um Engenheiro Civil com um interesse crescente em na área de dados. Atualmente, estou apredendendo novas tecnologias.
 
 ## O Que Você Pode Encontrar Aqui
 
