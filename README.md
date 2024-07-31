@@ -31,9 +31,9 @@ Se você quiser conversar sobre tecnologia, oportunidades de colaboração ou si
 
 Obrigado por visitar meu perfil! Fique à vontade para explorar e entrar em contato.
 
----
 
-**P.S.** Estou sempre aberto a sugestões e feedback. Se você tiver alguma recomendação ou quiser discutir possíveis projetos, não hesite em me avisar!
+
+
 
 
 <!--
